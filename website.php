@@ -78,7 +78,7 @@ if(isset($message)){
 
 </header>
 
-section class="home" id="home">
+<section class="home" id="home">
 
    <div class="image" data-aos="fade-right">
       <img src="images/user-img2.png" alt="">
@@ -94,3 +94,23 @@ section class="home" id="home">
 
 </section>
 
+<section class="about" id="about">
+
+   <h1 class="heading" data-aos="fade-up"> <span>biography</span> </h1>
+
+   <div class="biography">
+
+      <p data-aos="fade-up">a college student studying computer programming languages.</p>
+
+      <div class="bio">
+         <h3 data-aos="zoom-in"> <span>name : </span> Ashutosh Raturi </h3>
+         <h3 data-aos="zoom-in"> <span>email : </span> ashu.raturi621@gmail.com </h3>
+         <h3 data-aos="zoom-in"> <span>address : </span> Dehradun, india </h3>
+         <h3 data-aos="zoom-in"> <span>phone : </span> +91 8077123456 </h3>
+         <h3 data-aos="zoom-in"> <span>age : </span> 24 years </h3>
+         <h3 data-aos="zoom-in"> <span>experience : </span> Beginer </h3>
+      </div>
+
+      <a href="#" class="btn" data-aos="fade-up">download CV</a>
+
+   </div>
