@@ -100,17 +100,72 @@ if(isset($message)){
 
    <div class="biography">
 
-      <p data-aos="fade-up">a college student studying computer programming languages.</p>
+      <p data-aos="fade-up">A college student studying various programming languages.</p>
 
       <div class="bio">
          <h3 data-aos="zoom-in"> <span>name : </span> Ashutosh Raturi </h3>
-         <h3 data-aos="zoom-in"> <span>email : </span> ashu.raturi621@gmail.com </h3>
+         <h3 data-aos="zoom-in"> <span>email : </span> aman.raturi621@gmail.com </h3>
          <h3 data-aos="zoom-in"> <span>address : </span> Dehradun, india </h3>
          <h3 data-aos="zoom-in"> <span>phone : </span> +91 8077123456 </h3>
          <h3 data-aos="zoom-in"> <span>age : </span> 24 years </h3>
-         <h3 data-aos="zoom-in"> <span>experience : </span> Beginer </h3>
+         <h3 data-aos="zoom-in"> <span>experience : </span> Competent </h3>
       </div>
 
       <a href="#" class="btn" data-aos="fade-up">download CV</a>
 
    </div>
+   
+   <div class="skills" data-aos="fade-up">
+
+      <h1 class="heading"> <span>skills</span> </h1>
+
+      <div class="progress">
+         <div class="bar" data-aos="fade-left"> <h3><span>HTML</span> <span>95%</span></h3> </div>
+         <div class="bar" data-aos="fade-right"> <h3><span>CSS</span> <span>80%</span></h3> </div>
+         <div class="bar" data-aos="fade-left"> <h3><span>JavaScript</span> <span>65%</span></h3> </div>
+         <div class="bar" data-aos="fade-right"> <h3><span>PHP</span> <span>80%</span></h3> </div>
+      </div>
+
+   </div>
+
+   <div class="edu-exp">
+
+      <h1 class="heading" data-aos="fade-up"> <span>education & experience</span> </h1>
+
+      <div class="row">
+
+         <div class="box-container">
+
+            <h3 class="title" data-aos="fade-right">education</h3>
+
+            <div class="box" data-aos="fade-right">
+               <span>( 2019 - 2020 )</span>
+               <h3>web designer</h3>
+            </div>
+
+         <div class="box-container">
+
+            <h3 class="title" data-aos="fade-left">experience</h3>
+
+            <div class="box" data-aos="fade-left">
+               <span>( 2019 - 2020 )</span>
+               <h3>front-end developer</h3>
+            </div>
+
+            <div class="box" data-aos="fade-left">
+               <span>( 2022 - 2023 )</span>
+               <h3>back-end developer</h3>
+
+            <div class="box" data-aos="fade-left">
+               <span>( 2023 - 2024 )</span>
+               <h3>full-stack developer</h3>
+            </div>
+
+         </div>
+
+      </div>
+
+   </div>
+
+</section>
+
